@@ -1,4 +1,4 @@
-# Free Unlimited Youtube Json Rest Api
+# Free Unlimited Youtube Json Restful Api
 For each use case, the tool displays the parameters used in the API request. You can modify the parameter values, in which case the tool updates the code snippets to reflect the parameter values that you provided. The tool also displays the API response to each request. If you have modified the request parameters, the API response is based on your provided parameter values.
 <h4 class="panel-title panel-heading">Send an HTTP request to:</h4>
 <pre class="prettyprint lang-html">https://api.download-lagu-mp3.com/@api/json/<b><span class="nocode" style="color:#65b042">{format}</span></b>/<b><span class="nocode" style="color:#65b042">{YouTube-Video-ID}</span></b></pre>
